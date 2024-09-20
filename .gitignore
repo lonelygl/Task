@@ -1,4 +1,7 @@
-*.ignore
-*.gitignore
-*.Mach-O
-*.gitignore in repository root
+*.exe
+*.dll
+*.log
+*.tmp
+*.idea/
+node_models/
+vendor/
